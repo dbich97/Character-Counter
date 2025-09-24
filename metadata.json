@@ -1,0 +1,5 @@
+{
+  "name": "Character Counter",
+  "description": "A simple and responsive Character Counter web app. It provides real-time counts for characters (with and without spaces), words, and remaining characters based on an adjustable limit.",
+  "requestFramePermissions": []
+}
