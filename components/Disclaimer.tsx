@@ -43,7 +43,7 @@ const Disclaimer: React.FC<DisclaimerProps> = ({ onBack }) => {
         <p>We reserve the right to make additions, deletions, or modifications to the contents of this Disclaimer at any time without prior notice. We do not, however, make any commitment to update the information. We recommend you review this page periodically for any changes. By using this website, you are agreeing to be bound by the current version of this Disclaimer.</p>
 
         <h2>9. Contact Us</h2>
-        <p>If you have any questions about this Disclaimer, please contact us at <a href="mailto:legal@characterwordcounter.example.com">legal@characterwordcounter.example.com</a>.</p>
+        <p>If you have any questions about this Disclaimer, please contact us at <a href="mailto:legal@characterwordcounter.com">legal@characterwordcounter.com</a>.</p>
       </div>
     </div>
   );

@@ -56,7 +56,7 @@ const TermsAndConditions: React.FC<TermsAndConditionsProps> = ({ onBack }) => {
         <p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect by updating the "Last Updated" date at the top of this page. What constitutes a material change will be determined at our sole discretion. By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms.</p>
 
         <h2>11. Contact Us</h2>
-        <p>If you have any questions about these Terms, please contact us at <a href="mailto:legal@characterwordcounter.example.com">legal@characterwordcounter.example.com</a>.</p>
+        <p>If you have any questions about these Terms, please contact us at <a href="mailto:legal@characterwordcounter.com">legal@characterwordcounter.com</a>.</p>
       </div>
     </div>
   );

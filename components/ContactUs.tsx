@@ -23,7 +23,7 @@ const ContactUs: React.FC<ContactUsProps> = ({ onBack }) => {
         
         <h3>General Inquiries & Feedback</h3>
         <p>For general questions, feedback, or feature suggestions, please email us at:</p>
-        <p><a href="mailto:contact@characterwordcounter.example.com"><strong>contact@characterwordcounter.example.com</strong></a></p>
+        <p><a href="mailto:contact@characterwordcounter.com"><strong>contact@characterwordcounter.com</strong></a></p>
         
         <h3>Reporting a Bug</h3>
         <p>If you've found a bug or are experiencing a technical issue, please let us know. To help us resolve the issue quickly, please include the following information in your email if possible:</p>
