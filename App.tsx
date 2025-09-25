@@ -28,7 +28,7 @@ const translations = {
       subtitle: 'Stop guessing and start optimizing. Use our free tool to ensure your message is perfectly tailored for any platform.',
       button: 'Try our free Character & Word Counter now',
     },
-    footer: 'Built with React & Tailwind CSS',
+    footer: '',
     aboutUs: 'About Us',
     contactUs: 'Contact Us',
     privacyPolicy: 'Privacy Policy',

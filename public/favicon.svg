@@ -1,0 +1,8 @@
+<svg width="512" height="512" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>Character and Word Counter Icon</title>
+<desc>An abstract icon representing writing and counting. It's a stylized blue 'C' containing three white lines, symbolizing text on a page.</desc>
+<path d="M52 32C52 43.0457 43.0457 52 32 52C20.9543 52 12 43.0457 12 32C12 20.9543 20.9543 12 32 12" stroke="#4F46E5" stroke-width="12" stroke-linecap="round"/>
+<rect x="24" y="22" width="16" height="4" rx="2" fill="#FFFFFF"/>
+<rect x="24" y="30" width="20" height="4" rx="2" fill="#FFFFFF"/>
+<rect x="24" y="38" width="12" height="4" rx="2" fill="#FFFFFF"/>
+</svg>
